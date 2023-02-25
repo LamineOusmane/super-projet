@@ -13,5 +13,5 @@ console.log(personne.propertyMohamed);
  console.log(personne.NomComplet());
  
  let a=2, b=3, result=4;
- result -= a + b;
+ result += a + b;
 console.log(result);
